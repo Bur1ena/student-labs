@@ -1,0 +1,20 @@
+{"id":"q01","question":"Что делать при компрометации учетной записи?","answerable":true,"gold_doc_ids":["d01"],"expected_facts":["завершить сеансы", "сменить пароль"]}
+{"id":"q02","question":"Как часто нужно менять пароли?","answerable":true,"gold_doc_ids":["d06"],"expected_facts":["каждые 90 дней"]}
+{"id":"q03","question":"Куда сообщать об инциденте ИБ?","answerable":true,"gold_doc_ids":["d07"],"expected_facts":["в службу ИБ"]}
+{"id":"q04","question":"Как защитить серверную комнату?","answerable":true,"gold_doc_ids":["d10"],"expected_facts":["контроль доступа", "видеонаблюдение"]}
+{"id":"q05","question":"Что делать с подозрительным письмом?","answerable":true,"gold_doc_ids":["d08"],"expected_facts":["не переходить по ссылкам", "не открывать вложения"]}
+{"id":"q06","question":"Как проверяют резервные копии?","answerable":true,"gold_doc_ids":["d02"],"expected_facts":["восстановлением на тестовой площадке"]}
+{"id":"q07","question":"Что нужно для административного доступа?","answerable":true,"gold_doc_ids":["d03"],"expected_facts":["многофакторная аутентификация", "привилегированные записи"]}
+{"id":"q08","question":"Что делать с подозрительным сетевым трафиком?","answerable":true,"gold_doc_ids":["d04"],"expected_facts":["блокировать на межсетевом экране"]}
+{"id":"q09","question":"Что делать при обнаружении вредоносного файла?","answerable":true,"gold_doc_ids":["d05"],"expected_facts":["изолировать компьютер"]}
+{"id":"q10","question":"Где должны протоколироваться действия администраторов?","answerable":true,"gold_doc_ids":["d09"],"expected_facts":["в журналах аудита"]}
+{"id":"q11","question":"Какие пароли обязаны использовать пользователи?","answerable":true,"gold_doc_ids":["d06"],"expected_facts":["сложные пароли"]}
+{"id":"q12","question":"Что нужно сделать при подозрении на взлом учетки?","answerable":true,"gold_doc_ids":["d01"],"expected_facts":["сменить пароль", "завершить сеансы"]}
+{"id":"q13","question":"Как обезопасить серверное помещение?","answerable":true,"gold_doc_ids":["d10"],"expected_facts":["видеонаблюдение"]}
+{"id":"q14","question":"Куда отправлять информацию об инцидентах?","answerable":true,"gold_doc_ids":["d07"],"expected_facts":["служба ИБ"]}
+{"id":"q15","question":"Как защититься от фишинга в письмах?","answerable":true,"gold_doc_ids":["d08"],"expected_facts":["не открывать вложения"]}
+{"id":"q16","question":"Как настроить VPN-сервер?","answerable":false,"gold_doc_ids":[],"expected_facts":[]}
+{"id":"q17","question":"Какая погода в Москве?","answerable":false,"gold_doc_ids":[],"expected_facts":[]}
+{"id":"q18","question":"Как приготовить борщ?","answerable":false,"gold_doc_ids":[],"expected_facts":[]}
+{"id":"q19","question":"Какой курс доллара к рублю?","answerable":false,"gold_doc_ids":[],"expected_facts":[]}
+{"id":"q20","question":"Как поменять шину на автомобиле?","answerable":false,"gold_doc_ids":[],"expected_facts":[]}
