@@ -1,0 +1,8 @@
+{"round": 1, "tool": "get_incident", "result": "ok"}
+{"round": 2, "tool": "lookup_ip", "result": "ok"}
+{"round": 3, "tool": "search_knowledge", "result": "ok"}
+{"status": "completed", "rounds": 4, "calls": 3}
+{"round": 1, "tool": "get_incident", "result": "ok"}
+{"round": 2, "tool": "lookup_ip", "result": "ok"}
+{"round": 3, "tool": "search_knowledge", "result": "ok"}
+{"status": "completed", "rounds": 4, "calls": 3}
