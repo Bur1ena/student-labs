@@ -1,0 +1,7 @@
+﻿system,intent,attempts,answered,completion_%,mention_%,own_citation_%,verified_claim_%,false_claim_%
+Qwen-Local,ИТОГО,20,20,100.0,70.0,55.0,75.8,0.0
+Qwen-Local,брендовый,4,4,100.0,100.0,100.0,100.0,0.0
+Qwen-Local,информационный,4,4,100.0,25.0,25.0,40.0,0.0
+Qwen-Local,коммерческий,4,4,100.0,100.0,75.0,80.0,0.0
+Qwen-Local,риски,4,4,100.0,50.0,25.0,60.0,0.0
+Qwen-Local,сравнительный,4,4,100.0,75.0,50.0,66.7,0.0
